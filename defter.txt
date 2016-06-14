@@ -1,0 +1,9 @@
+<div class='formData'>
+		<img src=images/sekil30755.jpg><hr>Ad : farida
+<br>Soyad :pirzadayeva
+<br>Mesajınız :
+ <br></div><div class='formData'>
+		<img src=images/sekil22195.jpg><hr>Ad : Farida
+<br>Soyad :Pirzadayeva
+<br>Mesajınız :......
+ <br></div>
